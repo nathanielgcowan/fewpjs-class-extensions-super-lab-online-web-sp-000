@@ -9,6 +9,7 @@
     // - A `Tree` should have a static method, `definition()`, that returns a short
   // definition of all trees.
     static definition() {
-      return `a short definition of all trees.`;
+      return `A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves.)
+`;
     }
   }
