@@ -26,6 +26,6 @@
   // `definition()` from `Tree` and add the following to the provide a specific
   // definition for `Deciduous`:
     static definition() {
-      return super.definition()`Deciduous trees shed their leaves annually.`
+      return super.definition()+`Deciduous trees shed their leaves annually.`
     }
   }
